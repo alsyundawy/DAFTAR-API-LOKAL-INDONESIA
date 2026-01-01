@@ -157,7 +157,7 @@
     },
     {
       "apiName": "Neropass API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://docs.neropass.com",
       "developer": {
         "name": "Neropass",

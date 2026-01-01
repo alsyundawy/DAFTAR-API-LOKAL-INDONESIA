@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Data COVID-19 di Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://apicovid19indonesia-v2.vercel.app/api",
       "developer": {
         "name": "Reynadi",

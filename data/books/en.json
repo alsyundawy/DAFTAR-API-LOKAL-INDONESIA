@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Bukuacak",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://bukuacak.vercel.app/api",
       "developer": {
         "name": "Shabri A.",

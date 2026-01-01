@@ -14,7 +14,7 @@
     },
     {
       "apiName": "AnimeAPI",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://animeapi.my.id",
       "developer": {
         "name": "nattadasu",
@@ -234,7 +234,7 @@
     },
     {
       "apiName": "Unofficial Liga Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://ligaindonesia-api.vercel.app/docs",
       "developer": {
         "name": "Agis R Herdiana",

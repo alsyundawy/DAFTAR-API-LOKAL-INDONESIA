@@ -69,7 +69,7 @@
     },
     {
       "apiName": "PLN (Unofficial)",
-      "status": true,
+      "status": false,
       "authentication": "`x-api-key`",
       "documentationUrl": "https://pln.decryptable.dev",
       "description": "Unofficial API PLN Mobile",

@@ -102,7 +102,7 @@
     },
     {
       "apiName": "Qalbun API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api.qalbun.my.id",
       "developer": {
         "name": "Polyvor Labs",
